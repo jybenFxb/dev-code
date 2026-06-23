@@ -1,0 +1,135 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e36]:
+    - complementary [ref=e37]:
+      - generic [ref=e39]: CRM系统
+      - menubar [ref=e40]:
+        - menuitem "仪表盘" [ref=e41] [cursor=pointer]:
+          - img [ref=e43]
+          - text: 仪表盘
+        - menuitem "客户管理" [ref=e47] [cursor=pointer]:
+          - img [ref=e49]
+          - text: 客户管理
+        - menuitem "线索管理" [ref=e51] [cursor=pointer]:
+          - img [ref=e53]
+          - text: 线索管理
+        - menuitem "商机管理" [ref=e56] [cursor=pointer]:
+          - img [ref=e58]
+          - text: 商机管理
+        - menuitem "联系人" [ref=e60] [cursor=pointer]:
+          - img [ref=e62]
+          - text: 联系人
+        - menuitem "SEO 分析" [ref=e64] [cursor=pointer]:
+          - img [ref=e66]
+          - text: SEO 分析
+        - menuitem "系统设置" [ref=e68] [cursor=pointer]:
+          - img [ref=e70]
+          - text: 系统设置
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - img [ref=e76] [cursor=pointer]
+          - navigation "Breadcrumb" [ref=e78]:
+            - generic [ref=e79]:
+              - link "首页" [ref=e80]
+              - text: /
+            - link "仪表盘" [ref=e82]
+        - generic [ref=e83]:
+          - img [ref=e85] [cursor=pointer]
+          - button "管理员" [ref=e90] [cursor=pointer]:
+            - text: 管理员
+            - img [ref=e92]
+      - main [ref=e94]:
+        - generic [ref=e95]:
+          - heading "仪表盘" [level=2] [ref=e97]
+          - generic [ref=e98]:
+            - generic [ref=e101]:
+              - img [ref=e104]
+              - generic [ref=e106]:
+                - generic [ref=e107]: 客户总数
+                - generic [ref=e108]: "156"
+            - generic [ref=e111]:
+              - img [ref=e114]
+              - generic [ref=e117]:
+                - generic [ref=e118]: 线索数
+                - generic [ref=e119]: "89"
+            - generic [ref=e122]:
+              - img [ref=e125]
+              - generic [ref=e129]:
+                - generic [ref=e130]: 商机数
+                - generic [ref=e131]: "34"
+            - generic [ref=e134]:
+              - img [ref=e137]
+              - generic [ref=e139]:
+                - generic [ref=e140]: 本月成交
+                - generic [ref=e141]: "12"
+          - generic [ref=e142]:
+            - generic [ref=e144]:
+              - generic [ref=e145]: 销售趋势
+              - generic [ref=e147]: 销售趋势图表占位
+            - generic [ref=e149]:
+              - generic [ref=e150]: 客户分布
+              - generic [ref=e152]: 客户分布图表占位
+          - generic [ref=e153]:
+            - generic [ref=e154]: 最近活动
+            - generic [ref=e157]:
+              - table [ref=e159]:
+                - rowgroup [ref=e165]:
+                  - row "时间 类型 描述 操作人" [ref=e166]:
+                    - columnheader "时间" [ref=e167]:
+                      - generic [ref=e168]: 时间
+                    - columnheader "类型" [ref=e169]:
+                      - generic [ref=e170]: 类型
+                    - columnheader "描述" [ref=e171]:
+                      - generic [ref=e172]: 描述
+                    - columnheader "操作人" [ref=e173]:
+                      - generic [ref=e174]: 操作人
+              - table [ref=e179]:
+                - rowgroup [ref=e185]:
+                  - row "2025-02-25 10:30 新增客户 添加了新客户\"杭州电商网络有限公司\" 王销售" [ref=e186]:
+                    - cell "2025-02-25 10:30" [ref=e187]:
+                      - generic [ref=e188]: 2025-02-25 10:30
+                    - cell "新增客户" [ref=e189]:
+                      - generic [ref=e192]: 新增客户
+                    - cell "添加了新客户\"杭州电商网络有限公司\"" [ref=e193]:
+                      - generic [ref=e194]: 添加了新客户"杭州电商网络有限公司"
+                    - cell "王销售" [ref=e195]:
+                      - generic [ref=e196]: 王销售
+                  - row "2025-02-25 09:15 状态变更 将商机\"A公司采购项目\"阶段更新为\"谈判\" 李销售" [ref=e197]:
+                    - cell "2025-02-25 09:15" [ref=e198]:
+                      - generic [ref=e199]: 2025-02-25 09:15
+                    - cell "状态变更" [ref=e200]:
+                      - generic [ref=e203]: 状态变更
+                    - cell "将商机\"A公司采购项目\"阶段更新为\"谈判\"" [ref=e204]:
+                      - generic [ref=e205]: 将商机"A公司采购项目"阶段更新为"谈判"
+                    - cell "李销售" [ref=e206]:
+                      - generic [ref=e207]: 李销售
+                  - row "2025-02-24 16:45 新建线索 从官网渠道获取了一条新线索 系统自动" [ref=e208]:
+                    - cell "2025-02-24 16:45" [ref=e209]:
+                      - generic [ref=e210]: 2025-02-24 16:45
+                    - cell "新建线索" [ref=e211]:
+                      - generic [ref=e214]: 新建线索
+                    - cell "从官网渠道获取了一条新线索" [ref=e215]:
+                      - generic [ref=e216]: 从官网渠道获取了一条新线索
+                    - cell "系统自动" [ref=e217]:
+                      - generic [ref=e218]: 系统自动
+                  - row "2025-02-24 14:20 签单成功 成功签署\"C公司新签项目\"合同 张销售" [ref=e219]:
+                    - cell "2025-02-24 14:20" [ref=e220]:
+                      - generic [ref=e221]: 2025-02-24 14:20
+                    - cell "签单成功" [ref=e222]:
+                      - generic [ref=e225]: 签单成功
+                    - cell "成功签署\"C公司新签项目\"合同" [ref=e226]:
+                      - generic [ref=e227]: 成功签署"C公司新签项目"合同
+                    - cell "张销售" [ref=e228]:
+                      - generic [ref=e229]: 张销售
+                  - row "2025-02-24 11:00 跟进记录 电话拜访了\"上海贸易有限责任公司\"的李四 王销售" [ref=e230]:
+                    - cell "2025-02-24 11:00" [ref=e231]:
+                      - generic [ref=e232]: 2025-02-24 11:00
+                    - cell "跟进记录" [ref=e233]:
+                      - generic [ref=e236]: 跟进记录
+                    - cell "电话拜访了\"上海贸易有限责任公司\"的李四" [ref=e237]:
+                      - generic [ref=e238]: 电话拜访了"上海贸易有限责任公司"的李四
+                    - cell "王销售" [ref=e239]:
+                      - generic [ref=e240]: 王销售
+  - alert [ref=e241]:
+    - img [ref=e243]
+    - paragraph [ref=e245]: 登录成功
