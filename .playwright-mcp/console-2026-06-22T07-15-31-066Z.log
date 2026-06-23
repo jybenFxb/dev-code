@@ -1,0 +1,12 @@
+[   28139ms] [INFO] <Suspense> is an experimental feature and its API will likely change. @ http://localhost:3000/_nuxt/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js?v=87a71b58:7268
+[   28162ms] [WARNING] [Vue warn]: Hydration node mismatch:
+- rendered on server: JSHandle@node  
+- expected on client: div 
+  at <Auth ref=Ref< undefined > > 
+  at <AsyncComponentWrapper ref=Ref< undefined > > 
+  at <LayoutLoader key="auth" layoutProps= {ref: RefImpl} name="auth" > 
+  at <NuxtLayoutProvider layoutProps= {ref: RefImpl} key="auth" name="auth"  ... > 
+  at <NuxtLayout> 
+  at <App key=4 > 
+  at <NuxtRoot> @ http://localhost:3000/_nuxt/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js?v=87a71b58:49
+[   28162ms] [ERROR] Hydration completed but contains mismatches. @ http://localhost:3000/_nuxt/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js?v=87a71b58:1886

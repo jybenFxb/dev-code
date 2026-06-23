@@ -1,0 +1,1 @@
+{"file":"index-CZfbqQby.js","mappings":";;;;;;;;;;;;;;;;;;;;;AAEA,KAAA,QAAA,SAAA,IAAAA,iBAAA,MAAM,WAAW,YAAY,CAAA;;;;;;;;;;;;","names":["_withAsyncContext"],"sources":["../../../../pages/index.vue"],"sourcesContent":["<script setup lang=\"ts\">\ndefinePageMeta({ middleware: 'auth' })\nawait navigateTo('/dashboard')\n</script>\n<template><div /></template>"],"version":3}

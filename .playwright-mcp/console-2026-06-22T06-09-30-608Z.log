@@ -1,0 +1,3 @@
+[     144ms] [WARNING] [Vue warn]: Failed to resolve component: router-view
+If this is a native custom element, make sure to exclude it from component resolution via compilerOptions.isCustomElement. 
+  at <App> @ http://localhost:5173/node_modules/.vite/deps/vue.js?v=0ddaccc7:1751

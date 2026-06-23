@@ -1,0 +1,50 @@
+[   32275ms] [WARNING] ElementPlusError: [el-radio] [API] label act as value is about to be deprecated in version 3.0.0, please use value instead.
+For more detail, please visit: https://element-plus.org/en-US/component/radio.html
+
+    at debugWarn (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782:35)
+    at watch.immediate (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:5873:12)
+    at callWithErrorHandling (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1889:17)
+    at callWithAsyncErrorHandling (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1896:15)
+    at baseWatchOptions.call (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2388:46)
+    at job (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1670:13)
+    at watch$1 (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1691:25)
+    at doWatch (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2410:22)
+    at watch (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2362:9)
+    at useDeprecated (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:5872:2) @ http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782
+[   32277ms] [WARNING] ElementPlusError: [el-radio] [API] label act as value is about to be deprecated in version 3.0.0, please use value instead.
+For more detail, please visit: https://element-plus.org/en-US/component/radio.html
+
+    at debugWarn (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782:35)
+    at watch.immediate (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:5873:12)
+    at callWithErrorHandling (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1889:17)
+    at callWithAsyncErrorHandling (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1896:15)
+    at baseWatchOptions.call (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2388:46)
+    at job (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1670:13)
+    at watch$1 (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1691:25)
+    at doWatch (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2410:22)
+    at watch (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2362:9)
+    at useDeprecated (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:5872:2) @ http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782
+[   32278ms] [WARNING] ElementPlusError: [el-radio] [API] label act as value is about to be deprecated in version 3.0.0, please use value instead.
+For more detail, please visit: https://element-plus.org/en-US/component/radio.html
+
+    at debugWarn (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782:35)
+    at watch.immediate (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:5873:12)
+    at callWithErrorHandling (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1889:17)
+    at callWithAsyncErrorHandling (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1896:15)
+    at baseWatchOptions.call (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2388:46)
+    at job (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1670:13)
+    at watch$1 (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1691:25)
+    at doWatch (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2410:22)
+    at watch (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:2362:9)
+    at useDeprecated (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:5872:2) @ http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782
+[   32279ms] [WARNING] ElementPlusError: [ElSwitch] model-value must be active-value or inactive-value
+    at debugWarn (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782:35)
+    at setup (http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:45094:4)
+    at callWithErrorHandling (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:1889:17)
+    at setupStatefulComponent (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:6749:23)
+    at setupComponent (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:6725:35)
+    at mountComponent (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:5517:3)
+    at processComponent (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:5507:8)
+    at patch (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:5302:28)
+    at mountChildren (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:5414:49)
+    at processFragment (http://localhost:5173/node_modules/.vite/deps/vue.runtime.esm-bundler-0IUikitz.js?v=cf51eae7:5498:4) @ http://localhost:5173/node_modules/.vite/deps/element-plus.js?v=cf51eae7:4782

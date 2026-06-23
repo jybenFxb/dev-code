@@ -1,0 +1,143 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e37]:
+    - complementary [ref=e38]:
+      - generic [ref=e40]: CRM系统
+      - menubar [ref=e41]:
+        - menuitem "仪表盘" [ref=e42] [cursor=pointer]:
+          - img [ref=e44]
+          - text: 仪表盘
+        - menuitem "客户管理" [ref=e48] [cursor=pointer]:
+          - img [ref=e50]
+          - text: 客户管理
+        - menuitem "线索管理" [ref=e52] [cursor=pointer]:
+          - img [ref=e54]
+          - text: 线索管理
+        - menuitem "商机管理" [ref=e57] [cursor=pointer]:
+          - img [ref=e59]
+          - text: 商机管理
+        - menuitem "联系人" [ref=e61] [cursor=pointer]:
+          - img [ref=e63]
+          - text: 联系人
+        - menuitem "系统设置" [ref=e65] [cursor=pointer]:
+          - img [ref=e67]
+          - text: 系统设置
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - generic [ref=e71]:
+          - img [ref=e73] [cursor=pointer]
+          - navigation "Breadcrumb" [ref=e75]:
+            - generic [ref=e76]:
+              - link "首页" [ref=e77]
+              - text: /
+            - link "仪表盘" [ref=e79]
+        - generic [ref=e80]:
+          - img [ref=e82] [cursor=pointer]
+          - button "管理员" [ref=e87] [cursor=pointer]:
+            - text: 管理员
+            - img [ref=e89]
+      - main [ref=e91]:
+        - generic [ref=e92]:
+          - generic [ref=e93]:
+            - generic [ref=e97]:
+              - img [ref=e100]
+              - generic [ref=e102]:
+                - generic [ref=e103]: 客户总数
+                - generic [ref=e104]: 1,284
+                - generic [ref=e105]: ↑ 12% 较上月
+            - generic [ref=e109]:
+              - img [ref=e112]
+              - generic [ref=e115]:
+                - generic [ref=e116]: 线索数
+                - generic [ref=e117]: 3,562
+                - generic [ref=e118]: ↑ 8% 较上月
+            - generic [ref=e122]:
+              - img [ref=e125]
+              - generic [ref=e127]:
+                - generic [ref=e128]: 商机数
+                - generic [ref=e129]: "456"
+                - generic [ref=e130]: ↑ 5% 较上月
+            - generic [ref=e134]:
+              - img [ref=e137]
+              - generic [ref=e141]:
+                - generic [ref=e142]: 本月成交(元)
+                - generic [ref=e143]: ¥ 285,000
+                - generic [ref=e144]: ↓ 2% 较上月
+          - generic [ref=e145]:
+            - generic [ref=e147]:
+              - generic [ref=e149]: 销售漏斗
+              - generic [ref=e152]:
+                - generic [ref=e153]: 线索 (3562)
+                - generic [ref=e154]: 商机 (456)
+                - generic [ref=e155]: 谈判 (128)
+                - generic [ref=e156]: 成交 (45)
+            - generic [ref=e158]:
+              - generic [ref=e160]: 本月新增趋势
+              - generic [ref=e163]:
+                - generic [ref=e166]: W1
+                - generic [ref=e169]: W2
+                - generic [ref=e172]: W3
+                - generic [ref=e175]: W4
+          - generic [ref=e178]:
+            - generic [ref=e180]: 最近活动
+            - generic [ref=e183]:
+              - table [ref=e185]:
+                - rowgroup [ref=e191]:
+                  - row "时间 操作人 类型 活动内容" [ref=e192]:
+                    - columnheader "时间" [ref=e193]:
+                      - generic [ref=e194]: 时间
+                    - columnheader "操作人" [ref=e195]:
+                      - generic [ref=e196]: 操作人
+                    - columnheader "类型" [ref=e197]:
+                      - generic [ref=e198]: 类型
+                    - columnheader "活动内容" [ref=e199]:
+                      - generic [ref=e200]: 活动内容
+              - table [ref=e205]:
+                - rowgroup [ref=e211]:
+                  - row "2023-10-25 10:30 张三 客户 新增客户\"北京星火科技有限公司\"" [ref=e212]:
+                    - cell "2023-10-25 10:30" [ref=e213]:
+                      - generic [ref=e214]: 2023-10-25 10:30
+                    - cell "张三" [ref=e215]:
+                      - generic [ref=e216]: 张三
+                    - cell "客户" [ref=e217]:
+                      - generic [ref=e220]: 客户
+                    - cell "新增客户\"北京星火科技有限公司\"" [ref=e221]:
+                      - generic [ref=e222]: 新增客户"北京星火科技有限公司"
+                  - row "2023-10-25 09:15 李四 线索 更新线索\"钱先生\"状态为\"已联系\"" [ref=e223]:
+                    - cell "2023-10-25 09:15" [ref=e224]:
+                      - generic [ref=e225]: 2023-10-25 09:15
+                    - cell "李四" [ref=e226]:
+                      - generic [ref=e227]: 李四
+                    - cell "线索" [ref=e228]:
+                      - generic [ref=e231]: 线索
+                    - cell "更新线索\"钱先生\"状态为\"已联系\"" [ref=e232]:
+                      - generic [ref=e233]: 更新线索"钱先生"状态为"已联系"
+                  - row "2023-10-24 16:45 王五 商机 商机\"云创科技年度维保\"阶段推进至\"商务谈判\"" [ref=e234]:
+                    - cell "2023-10-24 16:45" [ref=e235]:
+                      - generic [ref=e236]: 2023-10-24 16:45
+                    - cell "王五" [ref=e237]:
+                      - generic [ref=e238]: 王五
+                    - cell "商机" [ref=e239]:
+                      - generic [ref=e242]: 商机
+                    - cell "商机\"云创科技年度维保\"阶段推进至\"商务谈判\"" [ref=e243]:
+                      - generic [ref=e244]: 商机"云创科技年度维保"阶段推进至"商务谈判"
+                  - row "2023-10-24 14:20 张三 客户 更新\"杭州聚力数据\"联系方式" [ref=e245]:
+                    - cell "2023-10-24 14:20" [ref=e246]:
+                      - generic [ref=e247]: 2023-10-24 14:20
+                    - cell "张三" [ref=e248]:
+                      - generic [ref=e249]: 张三
+                    - cell "客户" [ref=e250]:
+                      - generic [ref=e253]: 客户
+                    - cell "更新\"杭州聚力数据\"联系方式" [ref=e254]:
+                      - generic [ref=e255]: 更新"杭州聚力数据"联系方式
+                  - row "2023-10-23 11:10 赵六 线索 将线索\"吴经理\"标记为\"无意向\"" [ref=e256]:
+                    - cell "2023-10-23 11:10" [ref=e257]:
+                      - generic [ref=e258]: 2023-10-23 11:10
+                    - cell "赵六" [ref=e259]:
+                      - generic [ref=e260]: 赵六
+                    - cell "线索" [ref=e261]:
+                      - generic [ref=e264]: 线索
+                    - cell "将线索\"吴经理\"标记为\"无意向\"" [ref=e265]:
+                      - generic [ref=e266]: 将线索"吴经理"标记为"无意向"
+  - alert [ref=e267]:
+    - img [ref=e269]
+    - paragraph [ref=e271]: 登录成功
