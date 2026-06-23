@@ -1,1 +1,0 @@
-import{d as a,M as n,A as o,B as s,n as r}from"./CZUDKIac.js";const d=a({__name:"index",async setup(_){let e,t;return[e,t]=n(()=>r("/dashboard")),await e,t(),(c,i)=>(o(),s("div"))}});export{d as default};

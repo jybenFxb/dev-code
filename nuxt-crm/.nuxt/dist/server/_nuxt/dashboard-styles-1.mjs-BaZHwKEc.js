@@ -1,5 +1,0 @@
-const dashboard_vue_vue_type_style_index_0_scoped_0f3cd699_lang = ".dashboard-container[data-v-0f3cd699]{padding-bottom:20px}.stat-cards[data-v-0f3cd699]{margin-bottom:20px}.stat-card[data-v-0f3cd699],.stat-icon[data-v-0f3cd699]{align-items:center;display:flex}.stat-icon[data-v-0f3cd699]{border-radius:8px;font-size:30px;height:60px;justify-content:center;margin-right:15px;width:60px}.stat-info[data-v-0f3cd699]{display:flex;flex-direction:column}.stat-title[data-v-0f3cd699]{color:#909399;font-size:14px;margin-bottom:5px}.stat-value[data-v-0f3cd699]{color:#303133;font-size:24px;font-weight:700}.chart-cards[data-v-0f3cd699]{margin-bottom:20px}.chart-placeholder[data-v-0f3cd699]{align-items:center;background-color:#f5f7fa;border-radius:4px;display:flex;font-size:16px;font-weight:700;height:300px;justify-content:center}";
-export {
-  dashboard_vue_vue_type_style_index_0_scoped_0f3cd699_lang as default
-};
-//# sourceMappingURL=dashboard-styles-1.mjs-BaZHwKEc.js.map
